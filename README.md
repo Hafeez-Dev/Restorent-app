@@ -1,14 +1,14 @@
 # About the project:
 This is a Restaurant website built with React and CSS. This website features a modern and intuitive design, with easy-to-use navigation that puts the focus on the products.
-[Create React App](https://github.com/facebook/create-react-app).
+
 ![screencapture-localhost-3000-2024-06-12-22_36_04](https://github.com/Hafeez-Dev/Restorent-app/assets/171664425/9c5dc40d-d0e8-41db-ad42-60fba3d0db39)
 
 ## Technologies Used
 
-- *HTML5
-- *CSS3
-- *JavaScript
-- *React
+- HTML5
+- CSS3
+- JavaScript
+- React
 
 ## Getting Started
 
