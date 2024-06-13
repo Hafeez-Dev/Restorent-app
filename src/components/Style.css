@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #caced6;
+}
+.number{
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    border-bottom-right-radius: 20px;
+    font-size: 30px;
+    
+}
+.navbar .nav-link{
+    cursor: pointer;
+}
+/* .navbar-expand{
+    background-color: #374151 !important;
+}
+.navbar-expand a{
+    color: white !important;
+} */
