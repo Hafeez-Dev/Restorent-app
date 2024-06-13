@@ -2,8 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ![screencapture-localhost-3000-2024-06-12-22_36_04](https://github.com/Hafeez-Dev/Restorent-app/assets/171664425/9c5dc40d-d0e8-41db-ad42-60fba3d0db39)
-![screencapture-chrome-extension-fdpohaocaechififmbbbbbknoalclacl-capture-html-2024-06-12-22_36_36](https://github.com/Hafeez-Dev/Restorent-app/assets/171664425/4ae4eaae-fbd3-445c-abec-e87dd6646528)
-
 
 ## Available Scripts
 
