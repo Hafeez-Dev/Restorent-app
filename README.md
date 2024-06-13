@@ -18,7 +18,7 @@ To get a local copy up and running, follow these steps:
    git clone https://github.com/Hafeez-Dev/Restorent-app.git
    
 2. *Navigate to the project directory:*
-   cd BIKE-website-design
+   cd Restorent-app
 
 ## Contributing
 
