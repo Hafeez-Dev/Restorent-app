@@ -34,6 +34,5 @@ Connect with me on social media:
 
 - *LinkedIn:* [LinkedIn Profile](https://www.linkedin.com/in/abdul-hafeezdev)
 - *Instagram:* [Instagram Profile](https://www.instagram.com/DeugerXY)
-- *Upwork:* [Upwork Profile](https://www.upwork.com/freelancers/~014539e3e6fe0348b9)
 
 Thank you for checking out my project! If you like it, please give it a ⭐ on GitHub.
